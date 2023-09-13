@@ -1,0 +1,64 @@
+# Miscellaneous
+*.DS_Store
+*.iml
+
+# Android
+android/
+build/
+.gradle/
+local.properties
+/.idea/
+/captures/
+
+# iOS
+ios/Pods/
+ios/Podfile.lock
+ios/Podfile.pod.lock
+ios/Flutter/Flutter.framework/
+ios/Flutter/Flutter.podspec
+
+# macOS
+*.xcuserdatad/
+
+# Temporary files
+.vscode/
+*.swp
+*.swo
+*~
+
+# Flutter specific
+**/ios/Flutter/flutter_export_environment.sh
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+
+# IDE-specific files (Android Studio, VSCode, etc.)
+.idea/
+
+# Visual Studio Code specific files
+.vscode/
+
+# Android Studio specific files
+*.iml
+.idea/
+.gradle/
+/local.properties
+/.flutter-plugins
+/.flutter-plugins-dependencies
+
+# IntelliJ-specific files
+*.iml
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# Compiled files
+*.i*ml
+*.i*iml
+*.i*iws
+
+# Logs
+*.log
